@@ -6,14 +6,7 @@
   </ModulePrefs>
   <Content type="html">
     <![CDATA[
-    <script src="//talkgadget.google.com/hangouts/api/hangout.js?v=1.0"></script>
-
-    <link rel="stylesheet" href="https://github.com/madhusudhan518/demohangoutapp/blob/master/app/assets/stylesheets/demo.css" />
-
-    <h1>Demo Hangout App</h1>
-    <div id="container"></div>
-
-    <script src="https://github.com/madhusudhan518/demohangoutapp/blob/master/app/assets/javascripts/demo.js"></script>
+    
     ]]>
   </Content>
 </Module>
