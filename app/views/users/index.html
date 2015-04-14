@@ -1,0 +1,27 @@
+<html>
+<head>
+  <title>Hnagout App</title>
+  <style>
+  form {
+    margin-left: 33%;
+    margin-right: 33%;
+    margin-top: 25%;
+    text-align: center;
+    font-size: 20px;
+  }
+  </style>
+</head>
+<body>
+  <form action="https://plus.google.com/hangouts/_" methos="GET">
+    <input type="hidden" name="gid" value="1089532940946"/>
+    <select name="gd">
+      <option>Hangouts</option>
+      <option>Google+ API</option>
+      <option>+1 Button</option>
+    </select>
+    <input type="submit"/>
+  </form>
+</body>
+</html>
+
+<%= link_to "sign in with google", "/auth/google_oauth2" %>
