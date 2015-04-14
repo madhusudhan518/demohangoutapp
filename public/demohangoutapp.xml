@@ -13,7 +13,7 @@
     <h1>Demo Hangout App</h1>
     <div id="container"></div>
 
-    <script src="<YOUR_PATH>/scripts/demo.js"></script>
+    <script src="https://github.com/madhusudhan518/demohangoutapp/blob/master/app/assets/javascripts/demo.js"></script>
     ]]>
   </Content>
 </Module>
